@@ -1,0 +1,27 @@
+{
+    "personaldata":{
+        "name":"shanti priya",
+        "mobile":9100965113,
+        "email":"priyabugge@gmail.com"
+    },
+    "mydata":[
+        {
+            "name":"Giet of Engineering(CSE)",
+            "percentage":82,
+            "yop":2021
+        },
+        {
+            "name":"Sri Chaitanya boys junior college(MPC)",
+            "percentage":92,
+            "yop":2017
+        },
+        {
+            "name":"oakridge School",
+            "percentage":95,
+            "yop":2015
+        }
+    ],
+    "carrier":{
+      "carr":"To associate with progressive organization that gives me a chance to update my skills according to latest trends"
+    }
+}
